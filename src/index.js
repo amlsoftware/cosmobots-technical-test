@@ -20,7 +20,7 @@ desenvolvedor.adicionarProjetoConcluido();
 desenvolvedor.adicionarProjetoConcluido();
 
 console.log(
-  `${funcionario.getNome()} - salário R$: ${funcionario.calcularSalario()}`
+  `${funcionario.getNome()} - Funcionário - salário R$: ${funcionario.calcularSalario()}`
 );
 
 console.log(

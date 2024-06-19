@@ -1,0 +1,17 @@
+{
+  "name": "cosmobots-technical-test",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "cosmobots",
+    "technical",
+    "test"
+  ],
+  "author": "Antonny Melo <antonny.mello@gmail.com>",
+  "license": "MIT",
+  "description": " Cosmobots Technical Test"
+}
